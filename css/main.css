@@ -9,6 +9,12 @@ html, body {
     background: radial-gradient(ellipse at top, #1C121E, #FFCE4D 800%);
 }
 
+* {
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+}
+
 .pg {
     display: flex;
     height: 100%;

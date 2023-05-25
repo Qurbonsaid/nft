@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oxanium:wght@500&display=swap');
+
+html, body {
+    height: 100%;
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+    background: radial-gradient(ellipse at top, #1C121E, #FFCE4D 800%);
+}
+
+.pg {
+    display: flex;
+    height: 100%;
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+}
+
+.flx {
+    display: flex;
+    margin: auto;
+}
+
+.btn {
+    margin: 1vh 1vw;
+    padding: 2vh 4vw;
+    font-size: 2vh;
+    font-family: 'Work Sans', sans-serif;
+    text-decoration: none;
+}
+
+h1, h2 {
+    font-family: Oxanium, sans-serif;
+    margin: 0.1vh 0.1vw;
+    padding: 0.1vh 0.1vw;
+}
+
+p {
+    font-family: 'Work Sans', sans-serif;
+    margin: 0.1vh 0.1vw;
+    padding: 0.1vh 0.1vw;
+}

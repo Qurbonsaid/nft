@@ -1,0 +1,66 @@
+@import "main.css";
+
+#pg-1-sec-1 {
+    width: 49vw;
+    height: 70vh;
+    border: 0px;
+    padding: 0px;
+    margin: 0px;
+    padding-top: 10vh;
+}
+
+#pg-1-sec-2 {
+    width: 50vw;
+    height: 100vh;
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+    background: #4F464E73;
+}
+
+.btn#explore-btn {
+    border: 0.1vh solid #FFCE4D;
+    background-color: #FFCE4D;
+    color: #1C121E;
+}
+
+.btn#create-btn {
+    border: 0.1vh solid #FFCE4D;
+    background-color: #1C121E;
+    color: white;
+}
+
+h1#home-hdn {
+    font-size: 6vw;
+}
+
+#hero {
+    margin: 15% auto;
+    width: min-content;
+    height: 70%;
+}
+
+#hero-img {
+    height: 100%;
+}
+
+#bid-stats {
+    background: linear-gradient(92.8deg, rgba(255, 137, 61, 0.09) -52.37%, rgba(250, 250, 250, 0.9) 137.41%);
+    position: relative;
+    font-family: Oxanuim, sans-serif;
+    color: white;
+    font-size: 0.8vw;
+    padding-top: 2%;
+    margin: 0% 2%;
+    width: 96%;
+    height: 10%;
+    top: -99%;
+}
+
+#bid-stats > div > div {
+    margin: auto;
+}
+
+#bid-stats > div > h2 {
+    font-size: 3vw;
+}
